@@ -4,6 +4,8 @@
 Este projeto é uma prática desenvolvida durante a <a href="https://ticemtrilhas.org.br/trail/2fbdc1e1-2877-4d28-ad73-db456a7e7238">trilha de Análise de dados com Python</a> do programa TIC em Trilhas, utilizando o dataset <a href="https://www.kaggle.com/datasets/gregorut/videogamesales">Video Game Sales 2024</a>. O dataset reúne dados de vendas de mais de 64.000 jogos, abrangendo informações como plataforma, gênero, distribuidora, avaliação da crítica e vendas por região ao redor do mundo. A partir desses dados, o projeto tem como objetivo realizar análises para responder a perguntas relevantes sobre o mercado de games, por meio de exploração de dados e visualizações interativas em Python.
 </div>
 
+👉 [Data-Analytics.ipynb](https://github.com/AlessandroVasconcelos/data-analytics-video-game-sales/blob/main/Data-Analytics.ipynb)
+
 ---
 
 ### 📋 Perguntas Analisadas
