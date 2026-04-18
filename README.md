@@ -49,7 +49,7 @@ Este projeto é uma prática desenvolvida durante a <a href="https://ticemtrilha
 
 ---
 
-### 🛠️ Ferramentas Utilizadas
+### 🛠️ Tecnologias Utilizadas
 
 <a href="https://docs.anaconda.com/ae-notebooks/user-guide/basic-tasks/apps/jupyter/index.html"><img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"></a>
 <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"></a>
